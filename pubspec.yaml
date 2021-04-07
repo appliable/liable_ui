@@ -1,8 +1,8 @@
 name: liable_ui
-description: A new Flutter package.
+description: Stylable UI components used for fast development and prototyping
 version: 0.0.1
-author:
-homepage:
+author: Appliable s.r.o
+homepage: https://github.com/appliable/liable_ui.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
