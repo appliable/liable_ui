@@ -1,7 +1,6 @@
 name: liable_ui
 description: Stylable UI components used for fast development and prototyping
 version: 0.0.1
-author: Appliable s.r.o
 homepage: https://github.com/appliable/liable_ui.git
 
 environment:
